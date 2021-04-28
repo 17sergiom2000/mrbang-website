@@ -37,7 +37,29 @@
             {
                 name: 'clip3',
                 link: 'https://streamable.com/b4y7tt'
+            },
+            {
+                name: 'clip4',
+                link: 'https://streamable.com/ln5qr3'
+            },
+            {
+                name: 'clip5',
+                link: 'https://streamable.com/0ror9k'
+            },
+            {
+                name: 'clip5',
+                link: 'https://streamable.com/zvs7fr'
+            },
+            {
+                name: 'clip6',
+                link: 'https://streamable.com/mdn7sv'
+            },
+            {
+                name: 'clip7 - fontes :(',
+                link: 'https://streamable.com/6u6eln'
             }
+
+            
             
         ];
       
